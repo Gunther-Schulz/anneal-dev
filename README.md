@@ -1,5 +1,11 @@
 # anneal-dev
 
+> **⚠️ DEPRECATED / MOVED (2026-06-03).** anneal-dev is now **co-located inside the
+> anneal-framework repo** at [`anneal-framework/anneal-dev/`](https://github.com/Gunther-Schulz/anneal-framework/tree/main/anneal-dev)
+> (the `corpus-flows-redesign` merge — the spec it renders from and the tool that evolves it
+> now live in one repo). **This standalone repo is a tombstone — do not develop here;** use
+> `anneal-framework/anneal-dev/`.
+
 **Anneal applied to evolving the rule-corpus itself** — the *corpus-evolution*
 instance of the [anneal-framework](https://github.com/Gunther-Schulz/anneal-framework).
 
